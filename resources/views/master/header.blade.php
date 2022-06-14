@@ -13,7 +13,7 @@
                     <a href="">Blog</a>
                 </div>
                 <div class="item">
-                    <a href="">Liên hệ</a>
+                    <a href="./app">AppMusic</a>
                 </div>
             </div>
             <div id="actions">

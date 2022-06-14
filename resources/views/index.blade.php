@@ -52,7 +52,7 @@
 
                     <div class="name">{{$value -> tenalbum}}</div>
                     <div class="desc">Được xuất bản ngày 6/9/2020</div>
-                    <div class="price">{{$value -> gia}} VNĐ</div>
+                    <div class="price">{{$value -> gia}} $</div>
                 </div>
                 @endforeach
             </ul>
